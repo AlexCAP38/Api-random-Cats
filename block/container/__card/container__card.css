@@ -1,0 +1,8 @@
+.container__card {
+    height: 60vh;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 10px 7px 30px -5px #000;
+}
