@@ -6,3 +6,7 @@
 @import url(../block/container/__btn/container__btn.css);
 @import url(../block/background/background.css);
 @import url(../block/pages/pages.css);
+@import url(../block/author/author.css);
+@import url(../block/about-author/about-author.css);
+@import url(../block/about-author/__image/about-author__image.css);
+@import url(../block/about-author/_hidden/about-author_hidden.css);

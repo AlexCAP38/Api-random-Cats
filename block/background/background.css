@@ -1,5 +1,5 @@
 .background {
-    background-image: url(../../images/background.png);
+    background-image: url(../../images/background/background.png);
     position: absolute;
     z-index: -1;
     opacity: .1;
